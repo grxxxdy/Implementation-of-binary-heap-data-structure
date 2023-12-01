@@ -1,0 +1,12 @@
+﻿  АСД2_Лаб_3.cpp
+E:\source\repos\АСД2_Лаб_3\АСД2_Лаб_3\АСД2_Лаб_3.cpp(204,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\source\repos\АСД2_Лаб_3\АСД2_Лаб_3\АСД2_Лаб_3.cpp(255,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\source\repos\АСД2_Лаб_3\АСД2_Лаб_3\АСД2_Лаб_3.cpp(284,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\source\repos\АСД2_Лаб_3\АСД2_Лаб_3\АСД2_Лаб_3.cpp(246,26): warning C4834: discarding return value of function with 'nodiscard' attribute
+E:\source\repos\АСД2_Лаб_3\АСД2_Лаб_3\АСД2_Лаб_3.cpp(286,76): message : see reference to function template instantiation 'float testPriorityQueueSpeed<std::priority_queue<Data,std::vector<Data,std::allocator<Data>>,std::less<_Ty>>>(T &&)' being compiled
+          with
+          [
+              _Ty=Data,
+              T=std::priority_queue<Data,std::vector<Data,std::allocator<Data>>,std::less<Data>>
+          ]
+  АСД2_Лаб_3.vcxproj -> E:\source\repos\АСД2_Лаб_3\x64\Debug\АСД2_Лаб_3.exe
