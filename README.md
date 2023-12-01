@@ -7,7 +7,7 @@
 1.2 Overload the "less than" operator (operator<).  
 1.3 Overload the "equals" operator (operator==).  
 2. Implement a non-decreasing (max-heap) binary heap:  
-2.1 Create a BinaryHeap structure, representing a binary tree for the binary heap operation. You can use a custom dynamic array that has been implemented in previous works to store the binary tree.  
+2.1 Create a BinaryHeap structure, representing a binary tree for the binary heap operation. Use a custom created dynamic array.  
 2.2 Implement basic methods for traversing the binary tree.  
 2.3 Implement internal methods for heap organization.
 3. Implement a priority queue based on the binary heap.  
